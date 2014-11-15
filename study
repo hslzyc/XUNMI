@@ -1,0 +1,7 @@
+XUNMI
+=====
+git init 初始化一个本地的git仓库
+git add xxx 添加xxx文件到仓库中
+git commit -m “first commit” 执行提交说明，在Gitz中这个属性属于强制
+git remote add origin https：..... 添加本地仓库origin和指定远程仓库地址
+git push origin master 推送本地仓库到远程指定的master的分支上
